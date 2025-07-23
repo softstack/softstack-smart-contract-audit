@@ -15,13 +15,14 @@ This repository contains public smart contract audit summaries, smart contract c
 
 Founded in 2017, Softstack (formerly Chainsulting) has completed over 1,200 smart contract audits with a **zero-exploit record**. Our clients include:
 
-- TON Foundation  
-- Ripple  
+- [TON Foundation](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/TON)
+- [Ripple](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/Ripple)
 - BitGo  
-- Pantos  
-- Fetch AI  
+- [Pantos](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/Pantos)  
+- [Fetch AI](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/Fetch%20AI)  
 - Siemens AG
 - [AllUnity](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/AllUnity)
+- [Bitcoin.com](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/Bitcoin.com)
 - and more
 
 We work only with serious teams, delivering fast, transparent audits that developers and investors can trust.
@@ -44,6 +45,3 @@ If you’re planning a token launch, protocol upgrade, or stablecoin deployment 
 📬 [Request a quote with your codebase](mailto:hello@softstack.io)  
 📁 [Explore our audits](https://softstack.io/case-study/)  
 🤝 [Join the Service Partner Program](https://softstack.io/service-partner-program-spp)
-
----
-Maintained by [Michael](https://www.linkedin.com/in/michael-softstack), BD at Softstack
