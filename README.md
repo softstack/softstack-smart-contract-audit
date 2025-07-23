@@ -21,6 +21,7 @@ Founded in 2017, Softstack (formerly Chainsulting) has completed over 1,200 smar
 - Pantos  
 - Fetch AI  
 - Siemens AG
+- [AllUnity](https://github.com/softstack/Smart-Contract-Security-Audits/tree/master/AllUnity)
 - and more
 
 We work only with serious teams, delivering fast, transparent audits that developers and investors can trust.
