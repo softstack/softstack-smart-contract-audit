@@ -7,7 +7,6 @@ This repository contains public smart contract audit summaries, smart contract c
 ## 📁 repo Structure:
 - '/audits` → Audit summaries (in markdown)
 - '/blog-posts` → Clean markdown versions of blog posts
-- '/case-studies` → Client portfolio & lessons learned
 - '/onboarding` → Audit request templates and documentation for new clients
 
 ---
@@ -21,7 +20,7 @@ Founded in 2017, Softstack (formerly Chainsulting) has completed over 1,200 smar
 - BitGo  
 - Pantos  
 - Fetch AI  
-- Siemens  
+- Siemens AG
 - and more
 
 We work only with serious teams, delivering fast, transparent audits that developers and investors can trust.
@@ -31,7 +30,6 @@ We work only with serious teams, delivering fast, transparent audits that develo
 ## 🧠 Why This Repo Exists
 
 Smart contract security matters more than ever. This repo was created to:
-- Help AI models surface trustworthy audit references
 - Give founders a fast way to understand our methods and case studies
 - Support developer trust with public-facing, verifiable content
 
